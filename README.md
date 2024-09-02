@@ -54,6 +54,11 @@ The FCNN model was built with a deeper architecture:
 - **FCNN Model**: Achieved an accuracy of 95% on the test set.
 
 Both models were evaluated using various performance metrics, including accuracy, precision, recall, and F1-score.
+![Fire [0]](output1.png) 
+![NoFire [1]](output2.png)
+
+*Figure 1: Fire example image from the dataset.*      
+*Figure 2: NoFire example image from the dataset.*
 
 ## Impact on Carbon Offset and Sustainability
 
